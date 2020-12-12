@@ -9,6 +9,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-tryhardyt6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tryhardyt6@gmail.com)](mailto:tryhardyt6@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Tryhard646)](https://github.com/Tryhard646)
 [![Twitter Badge](https://img.shields.io/badge/-@TryHard_06-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=TryHard_06 "Follow on Twitter")
+[![Discord](https://img.shields.io/badge/Discord-181716?style=flat-square&logo=Discord&logoColor=sea&black=https://github.com/Tryhard646)](https://github.com/Tryhard646)
+[![Website](https://img.shields.io/website?style=flat-square&up_color=purple&up_message=California%20RP&url=https%3A%2F%2Fwww.californiarp.es%2F)](https://www.californiarp.es)
 
 ## ⚡ Technologies
 
