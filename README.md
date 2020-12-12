@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying
-- 🌱 I'm woriking on [California RP](https://www.californiarp.es/)
+- 🌱 I'm working on [California RP](https://www.californiarp.es/)
 - 📫 You can reach me on [Instagram](https://instagram.com/edgar.loopez)
 
 ## ⚡ Technologies
