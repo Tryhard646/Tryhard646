@@ -1,9 +1,14 @@
 # Hi. I'm Edgar López
 
-
 - 🔭 I’m currently studying
-- 🌱 I'm working on [California RP](https://www.californiarp.es/)
+- 🌱 I'm woriking on [California RP](https://www.californiarp.es/)
 - 📫 You can reach me on [Instagram](https://instagram.com/edgar.loopez)
+
+## Follow Me
+
+[![Gmail Badge](https://img.shields.io/badge/-tryhardyt6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tryhardyt6@gmail.com)](mailto:tryhardyt6@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Tryhard646)](https://github.com/Tryhard646)
+[![Twitter Badge](https://img.shields.io/badge/-@TryHard_06-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=TryHard_06 "Follow on Twitter")
 
 ## ⚡ Technologies
 
